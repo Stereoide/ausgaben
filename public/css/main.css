@@ -1,0 +1,15 @@
+.textalign-right {
+	text-align: right;
+}
+
+.purchaseRangeClicker {
+	cursor: pointer;
+}
+
+.purchaseRangeClicker.active {
+	font-weight: bold;
+}
+
+#purchasesWeekContainer, #purchasesMonthContainer, #purchasesYearContainer {
+	display: none;
+}
